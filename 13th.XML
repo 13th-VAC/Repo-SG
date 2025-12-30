@@ -1,8 +1,31 @@
-<?xml version="1.0"?>
-<mod_list>
-  <mod name="13th_MANDATORY _476th Range Targets" version="1.0.0" url="https://github.com/13th-VAC/Repo-SG/releases/download/v1/13th_MANDATORY%20_476th%20Range%20Targets.zip"></mod>
-  <mod name="13th_MANDATORY_HiDigitSAMs" version="2.1.0" url="https://github.com/13th-VAC/Repo-SG/releases/download/v1/13th_MANDATORY_HiDigitSAMs.zip">High Digit Sam ver 2.1.0</mod>
-  <mod name="13th_MANDATORY_Insurgency_Pack" version="1.0.4" url="https://github.com/13th-VAC/Repo-SG/releases/download/v1/13th_MANDATORY_Insurgency_Pack.zip">This mod adds a number of insurgent vehicles and objects to DCS World. &#13;&#10;The units are heavily based on ISIS insurgents. The first itteration of the&#13;&#10;mod will feature a range of Ural trucks, Toyota pickups and a number of IED related objects.&#13;&#10;&#13;&#10;Models used in this mod are bought and fully licensed for non commercial distribution. &#13;&#10;&#13;&#10;============= Contents=============&#13;&#10;&#13;&#10;Objects:&#13;&#10;Found under fortifications in the mission editor.&#13;&#10;&#13;&#10;LLH Diesel Drum&#13;&#10;LLH Fertilizer Bag&#13;&#10;LLH Fertilizer Stack&#13;&#10;LLH Unfinished IED Digging Site&#13;&#10;LLH Shovel Planted&#13;&#10;LLH Shovel Flat&#13;&#10;LLH Tarped Cache&#13;&#10;LLH Jerrycan IED&#13;&#10;&#13;&#10;Units:&#13;&#10;Found under unarmed (even though some are armed) in the mission editor.&#13;&#10;&#13;&#10;LLH ISIS Ural Troops&#13;&#10;LLH ISIS Ural Covered&#13;&#10;LLH ISIS Ural ZU2&#13;&#10;LLH ISIS Ural Flak&#13;&#10;LLH ISIS Toyota &#13;&#10;LLH ISIS Toyota DShK</mod>
-  <mod name="13th_MANDATORY_VFA-242_Skins" version="1.1.2" url="https://github.com/13th-VAC/Repo-SG/releases/download/v1/13th_MANDATORY_VFA-242_Skins.zip">1.1.2&#13;&#10;-Added LoVis Skins &#13;&#10;-Updated HiVis tank skin</mod>
-  <mod name="13th_OPTIONAL_UH60L" version="1.4.0" url="https://github.com/13th-VAC/Repo-SG/releases/download/v1/13th_OPTIONAL_UH60L.zip">UH-60L Blackhawk Ver 1.4.0</mod>
-</mod_list>
+<?xml version="1.0" encoding="utf-8"?>
+<repository name="13th VAC OvGME Repository"
+            baseUrl="https://github.com/13th-VAC/Repo-SG/releases/download/v1/">
+
+  <mod name="13th_MANDATORY_476th_Range_Targets" version="1.0.0"
+       url="13th_MANDATORY_476th Range Targets.zip">
+  </mod>
+
+  <mod name="13th_MANDATORY_HiDigitSAMs" version="2.1.0"
+       url="13th_MANDATORY_HiDigitSAMs.zip">
+    High Digit Sam ver 2.1.0
+  </mod>
+
+  <mod name="13th_MANDATORY_Insurgency_Pack" version="1.0.4"
+       url="13th_MANDATORY_Insurgency_Pack.zip">
+    This mod adds a number of insurgent vehicles and objects to DCS World.
+    Models are licensed for non-commercial distribution.
+  </mod>
+
+  <mod name="13th_MANDATORY_VFA-242_Skins" version="1.1.2"
+       url="13th_MANDATORY_VFA-242_Skins.zip">
+    Added LoVis skins, updated HiVis tank skin.
+  </mod>
+
+  <mod name="13th_OPTIONAL_UH60L" version="1.4.0"
+       url="13th_OPTIONAL_UH60L.zip">
+    UH-60L Blackhawk Ver 1.4.0
+  </mod>
+
+</repository>
+
